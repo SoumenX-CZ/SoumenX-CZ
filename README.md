@@ -7,8 +7,7 @@ Vítejte na mém GitHub profilu! Jsem student s vášní pro programování, tec
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SoumenX-CZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumenX-CZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
-  <img align="right" height="130" width="140" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"/>
-  
+  <img hspace="20" height="150" width="150" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"/>
 </div>
 
 
