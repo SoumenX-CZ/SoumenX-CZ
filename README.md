@@ -1,4 +1,4 @@
-# 👋 Ahoj, jsem SoumenX!
+# 👋 Ahoj, jsem Dominik!
 
 🎓 **Student | Nadšenec do technologií | Začínající vývojář**  
 Vítejte na mém GitHub profilu! Jsem student s vášní pro programování, technologie a hledání kreativních řešení.  
